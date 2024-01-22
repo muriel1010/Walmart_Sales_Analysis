@@ -41,7 +41,7 @@ Business Questions To Answer
 
 - Product
   
--- How many unique product lines does the data have?
+--How many unique product lines does the data have?
 --What is the most common payment method?
 --What is the most selling product line?
 --What is the total revenue by month?
