@@ -52,21 +52,23 @@ Business Questions To Answer
 --What is the average rating of each product line?
 
 - Sales
-Number of sales made in each time of the day per weekday
-Which of the customer types brings the most revenue?
-Which city has the largest tax percent/ VAT (Value Added Tax)?
-Which customer type pays the most in VAT?
+  
+--Number of sales made in each time of the day per weekday
+--Which of the customer types brings the most revenue?
+--Which city has the largest tax percent/ VAT (Value Added Tax)?
+--Which customer type pays the most in VAT?
 
 - Customer
-How many unique customer types does the data have?
-How many unique payment methods does the data have?
-What is the most common customer type?
-Which customer type buys the most?
-What is the gender of most of the customers?
-What is the gender distribution per branch?
-Which time of the day do customers give most ratings?
-Which time of the day do customers give most ratings per branch?
-Which day fo the week has the best avg ratings?
-Which day of the week has the best average ratings per branch?
+  
+--How many unique customer types does the data have?
+--How many unique payment methods does the data have?
+--What is the most common customer type?
+--Which customer type buys the most?
+--What is the gender of most of the customers?
+--What is the gender distribution per branch?
+--Which time of the day do customers give most ratings?
+--Which time of the day do customers give most ratings per branch?
+--Which day fo the week has the best avg ratings?
+--Which day of the week has the best average ratings per branch?
 
 
