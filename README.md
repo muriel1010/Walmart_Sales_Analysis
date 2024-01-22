@@ -31,22 +31,25 @@ This will help use generate some new columns from existing ones.
 
 # Conclusion:
 Business Questions To Answer
+
 - Generic Question
+  
 -- How many unique cities does the data have?
 -- In which city is each branch?
 
 - Product
-How many unique product lines does the data have?
-What is the most common payment method?
-What is the most selling product line?
-What is the total revenue by month?
-What month had the largest COGS?
-What product line had the largest revenue?
-What is the city with the largest revenue?
-What product line had the largest VAT?
-Which branch sold more products than average product sold?
-What is the most common product line by gender?
-What is the average rating of each product line?
+  
+-- How many unique product lines does the data have?
+--What is the most common payment method?
+--What is the most selling product line?
+--What is the total revenue by month?
+--What month had the largest COGS?
+--What product line had the largest revenue?
+--What is the city with the largest revenue?
+--What product line had the largest VAT?
+--Which branch sold more products than average product sold?
+--What is the most common product line by gender?
+--What is the average rating of each product line?
 
 - Sales
 Number of sales made in each time of the day per weekday
