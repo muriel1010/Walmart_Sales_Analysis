@@ -32,8 +32,8 @@ This will help use generate some new columns from existing ones.
 # Conclusion:
 Business Questions To Answer
 - Generic Question
-How many unique cities does the data have?
-In which city is each branch?
+-- How many unique cities does the data have?
+-- In which city is each branch?
 
 - Product
 How many unique product lines does the data have?
