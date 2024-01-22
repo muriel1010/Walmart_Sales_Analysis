@@ -40,8 +40,8 @@ Business Questions To Answer
 
 - Generic Question
   
-1-- How many unique cities does the data have?
-2-- In which city is each branch?
+-- How many unique cities does the data have?
+-- In which city is each branch?
 
 - Product
   
