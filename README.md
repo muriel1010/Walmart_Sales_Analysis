@@ -7,7 +7,7 @@ The major aim of thie project is to gain insight into the sales data of Walmart 
 # About the data 
 The dataset was obtained from the Kaggle Walmart Sales Forecasting Competition. This dataset contains sales transactions from a three different branches of Walmart, respectively located in Mandalay, Yangon and Naypyitaw. The data contains 17 columns and 1000 rows.
 
-# Exploratory Data Analysis
+
 
 1- Product Analysis
 Conduct analysis on the data to understand the different product lines, the products lines performing best and the product lines that need to be improved.
@@ -31,13 +31,17 @@ This will help use generate some new columns from existing ones.
 -Add a new column named day_name that contains the extracted days of the week on which the given transaction took place (Mon, Tue, Wed, Thur, Fri). This will help answer the question on which week of the day each branch is busiest.
 -Add a new column named month_name that contains the extracted months of the year on which the given transaction took place (Jan, Feb, Mar). Help determine which month of the year has the most sales and profit.
 
+3-Exploratory Data Analysis:
+
+Exploratory data analysis is done to answer the listed questions and aims of this project.
+
 # Conclusion:
 Business Questions To Answer
 
 - Generic Question
   
--- How many unique cities does the data have?
--- In which city is each branch?
+1-- How many unique cities does the data have?
+2-- In which city is each branch?
 
 - Product
   
