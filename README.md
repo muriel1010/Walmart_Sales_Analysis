@@ -71,6 +71,7 @@ Business Questions To Answer
 - Customer
   
 --How many unique customer types does the data have?
+-jjb
 --How many unique payment methods does the data have?
 --What is the most common customer type?
 --Which customer type buys the most?
